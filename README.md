@@ -8,7 +8,7 @@ markdown here github https://github.com/adam-p/markdown-here
 
 ## Zotero 插件制作
 
-首先从[https://github.com/adam-p/markdown-here](https://github.com/adam-p/markdown-here)下载Sources.zip并解压
+首先从[https://github.com/adam-p/markdown-here](https://github.com/adam-p/markdown-here)下载Src文件夹或者从Release页面下载Sources.zip并解压
 
 Zotero 的插件格式和 Firefox 一致，后缀为 xpi，但是本质其实是一个 zip 压缩文件
 
@@ -31,4 +31,4 @@ zip -r ./markdownhere4zotero.zip ./
 
 ## 使用
 
-下载xpi格式文件，然后按照正常插件安装即可
+得到xpi文件后，按照正常插件安装即可
